@@ -5,7 +5,7 @@
       "dailySurvey": 1,
       "monthlyIncome": 0,
       "dailyIncome": 0,
-      "minimumWithdrawal": 1500,
+      "minimumWithdrawal": 3500,
       "earningPerSurvey": "40 - 50",
       "price": "0"
     },
@@ -38,7 +38,7 @@
     }
   ],
   "mpesaPaymentDetails": {
-    "tillName": "CV WRITTING",
-    "tillNumber": 8117840
+    "tillName": "EQUITECH SOLUTIONS",
+    "tillNumber": 6990843
   }
 }
