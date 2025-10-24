@@ -70,7 +70,7 @@
          "surveyId":"KE001",
          "surveyCategory":"Safaricom M-PESA",
          "surveyPaid":true,
-         "surveyAmount":75,
+         "surveyAmount":55,
          "surveyQuestions":[
             {
                "surveyQuestion":"How frequently do you use M-PESA for transactions?",
@@ -149,7 +149,7 @@
          "surveyId":"KE002",
          "surveyCategory":"Equity Bank",
          "surveyPaid":false,
-         "surveyAmount":50,
+         "surveyAmount":30,
          "surveyQuestions":[
             {
                "surveyQuestion":"Which Equity Bank services do you currently use?",
@@ -215,7 +215,7 @@
          "surveyId":"KE003",
          "surveyCategory":"Naivas Supermarket",
          "surveyPaid":true,
-         "surveyAmount":65,
+         "surveyAmount":45,
          "surveyQuestions":[
             {
                "surveyQuestion":"How often do you shop at Naivas Supermarket?",
@@ -297,7 +297,7 @@
          "surveyId":"KE004",
          "surveyCategory":"Kenya Airways",
          "surveyPaid":true,
-         "surveyAmount":80,
+         "surveyAmount":60,
          "surveyQuestions":[
             {
                "surveyQuestion":"How often do you fly with Kenya Airways?",
@@ -377,7 +377,7 @@
          "surveyId":"KE005",
          "surveyCategory":"Brookside Dairy",
          "surveyPaid":false,
-         "surveyAmount":45,
+         "surveyAmount":25,
          "surveyQuestions":[
             {
                "surveyQuestion":"Which Brookside Dairy products do you purchase regularly?",
@@ -441,7 +441,7 @@
          "surveyId":"KE006",
          "surveyCategory":"Jumia Kenya",
          "surveyPaid":true,
-         "surveyAmount":70,
+         "surveyAmount":50,
          "surveyQuestions":[
             {
                "surveyQuestion":"How often do you shop on Jumia Kenya?",
@@ -520,7 +520,7 @@
          "surveyId":"KE007",
          "surveyCategory":"KCB Bank",
          "surveyPaid":true,
-         "surveyAmount":68,
+         "surveyAmount":48,
          "surveyQuestions":[
             {
                "surveyQuestion":"Which KCB Bank services do you use?",
@@ -602,7 +602,7 @@
          "surveyId":"KE008",
          "surveyCategory":"Twiga Foods",
          "surveyPaid":true,
-         "surveyAmount":62,
+         "surveyAmount":42,
          "surveyQuestions":[
             {
                "surveyQuestion":"How often do you purchase fresh produce from Twiga Foods?",
@@ -677,7 +677,7 @@
          "surveyId":"KE009",
          "surveyCategory":"Co-operative Bank",
          "surveyPaid":false,
-         "surveyAmount":50,
+         "surveyAmount":30,
          "surveyQuestions":[
             {
                "surveyQuestion":"Which Co-operative Bank services do you use?",
@@ -741,7 +741,7 @@
          "surveyId":"KE010",
          "surveyCategory":"Zuku",
          "surveyPaid":true,
-         "surveyAmount":72,
+         "surveyAmount":52,
          "surveyQuestions":[
             {
                "surveyQuestion":"Which Zuku services do you subscribe to?",
@@ -822,7 +822,7 @@
          "surveyId":"KE011",
          "surveyCategory":"Java House",
          "surveyPaid":true,
-         "surveyAmount":60,
+         "surveyAmount":40,
          "surveyQuestions":[
             {
                "surveyQuestion":"How often do you visit Java House?",
@@ -893,7 +893,7 @@
          "surveyId":"KE012",
          "surveyCategory":"Kipepeo Clothing",
          "surveyPaid":true,
-         "surveyAmount":58,
+         "surveyAmount":28,
          "surveyQuestions":[
             {
                "surveyQuestion":"How often do you purchase clothing from Kipepeo?",
@@ -963,7 +963,7 @@
          "surveyId":"KE013",
          "surveyCategory":"KPLC",
          "surveyPaid":true,
-         "surveyAmount":66,
+         "surveyAmount":46,
          "surveyQuestions":[
             {
                "surveyQuestion":"How reliable is KPLC's electricity supply in your area?",
@@ -1037,7 +1037,7 @@
          "surveyId":"KE014",
          "surveyCategory":"Bidco Africa",
          "surveyPaid":false,
-         "surveyAmount":48,
+         "surveyAmount":28,
          "surveyQuestions":[
             {
                "surveyQuestion":"Which Bidco Africa products do you use?",
@@ -1101,7 +1101,7 @@
          "surveyId":"KE015",
          "surveyCategory":"Safaricom Home Fibre",
          "surveyPaid":true,
-         "surveyAmount":78,
+         "surveyAmount":58,
          "surveyQuestions":[
             {
                "surveyQuestion":"Which Safaricom Home Fibre package do you use?",
@@ -1186,7 +1186,7 @@
          "surveyId":"KE016",
          "surveyCategory":"Artcaffe",
          "surveyPaid":true,
-         "surveyAmount":64,
+         "surveyAmount":44,
          "surveyQuestions":[
             {
                "surveyQuestion":"How often do you visit Artcaffe?",
@@ -1257,7 +1257,7 @@
          "surveyId":"KE017",
          "surveyCategory":"Carrefour Kenya",
          "surveyPaid":true,
-         "surveyAmount":67,
+         "surveyAmount":47,
          "surveyQuestions":[
             {
                "surveyQuestion":"How often do you shop at Carrefour Kenya?",
@@ -1339,7 +1339,7 @@
          "surveyId":"KE018",
          "surveyCategory":"Keroche Breweries",
          "surveyPaid":false,
-         "surveyAmount":46,
+         "surveyAmount":26,
          "surveyQuestions":[
             {
                "surveyQuestion":"Which Keroche Breweries products do you consume?",
@@ -1402,7 +1402,7 @@
          "surveyId":"KE019",
          "surveyCategory":"Safaricom PLC",
          "surveyPaid":true,
-         "surveyAmount":74,
+         "surveyAmount":54,
          "surveyQuestions":[
             {
                "surveyQuestion":"Which Safaricom mobile services do you use?",
@@ -1484,7 +1484,7 @@
          "surveyId":"KE020",
          "surveyCategory":"Chandaria Industries",
          "surveyPaid":false,
-         "surveyAmount":42,
+         "surveyAmount":22,
          "surveyQuestions":[
             {
                "surveyQuestion":"Which Chandaria Industries products do you use?",
@@ -1547,7 +1547,7 @@
          "surveyId":"KE021",
          "surveyCategory":"Eldoret Water and Sanitation Company (ELDOWAS)",
          "surveyPaid":true,
-         "surveyAmount":63,
+         "surveyAmount":43,
          "surveyQuestions":[
             {
                "surveyQuestion":"How satisfied are you with ELDOWAS water supply reliability?",
@@ -1617,7 +1617,7 @@
          "surveyId":"KE022",
          "surveyCategory":"Kenchic",
          "surveyPaid":true,
-         "surveyAmount":61,
+         "surveyAmount":41,
          "surveyQuestions":[
             {
                "surveyQuestion":"How often do you purchase Kenchic products?",
@@ -1687,7 +1687,7 @@
          "surveyId":"KE023",
          "surveyCategory":"Airtel Kenya",
          "surveyPaid":true,
-         "surveyAmount":69,
+         "surveyAmount":49,
          "surveyQuestions":[
             {
                "surveyQuestion":"Which Airtel Kenya services do you use?",
@@ -1769,7 +1769,7 @@
          "surveyId":"KE024",
          "surveyCategory":"Nation Media Group",
          "surveyPaid":true,
-         "surveyAmount":71,
+         "surveyAmount":51,
          "surveyQuestions":[
             {
                "surveyQuestion":"Which Nation Media Group platforms do you use?",
@@ -1851,7 +1851,7 @@
          "surveyId":"KE025",
          "surveyCategory":"Glovo Kenya",
          "surveyPaid":true,
-         "surveyAmount":66,
+         "surveyAmount":46,
          "surveyQuestions":[
             {
                "surveyQuestion":"How often do you use Glovo for deliveries?",
@@ -1921,7 +1921,7 @@
          "surveyId":"KE026",
          "surveyCategory":"Mara Moja Transport",
          "surveyPaid":false,
-         "surveyAmount":44,
+         "surveyAmount":24,
          "surveyQuestions":[
             {
                "surveyQuestion":"How often do you travel with Mara Moja Transport?",
@@ -1985,7 +1985,7 @@
          "surveyId":"KE027",
          "surveyCategory":"Tusker Beer (EABL)",
          "surveyPaid":true,
-         "surveyAmount":68,
+         "surveyAmount":48,
          "surveyQuestions":[
             {
                "surveyQuestion":"How often do you consume Tusker Beer?",
@@ -2055,7 +2055,7 @@
          "surveyId":"KE028",
          "surveyCategory":"Quickmart",
          "surveyPaid":true,
-         "surveyAmount":65,
+         "surveyAmount":45,
          "surveyQuestions":[
             {
                "surveyQuestion":"How often do you shop at Quickmart?",
@@ -2126,7 +2126,7 @@
          "surveyId":"KE029",
          "surveyCategory":"Kenya Tea Development Agency (KTDA)",
          "surveyPaid":false,
-         "surveyAmount":43,
+         "surveyAmount":23,
          "surveyQuestions":[
             {
                "surveyQuestion":"Which KTDA tea brands do you consume?",
@@ -2189,7 +2189,7 @@
          "surveyId":"KE030",
          "surveyCategory":"Bolt Kenya",
          "surveyPaid":true,
-         "surveyAmount":70,
+         "surveyAmount":50,
          "surveyQuestions":[
             {
                "surveyQuestion":"How often do you use Bolt for transportation?",
@@ -2270,7 +2270,7 @@
          "surveyId":"KE031",
          "surveyCategory":"CIC Insurance Group",
          "surveyPaid":false,
-         "surveyAmount":40,
+         "surveyAmount":20,
          "surveyQuestions":[
             {
                "surveyQuestion":"Which CIC Insurance products do you use?",
@@ -2334,7 +2334,7 @@
          "surveyId":"KE032",
          "surveyCategory":"Kenya Power",
          "surveyPaid":true,
-         "surveyAmount":65,
+         "surveyAmount":45,
          "surveyQuestions":[
             {
                "surveyQuestion":"How often do you experience power outages in your area?",
@@ -2415,7 +2415,7 @@
          "surveyId":"KE033",
          "surveyCategory":"Mabati Rolling Mills",
          "surveyPaid":true,
-         "surveyAmount":60,
+         "surveyAmount":40,
          "surveyQuestions":[
             {
                "surveyQuestion":"Which Mabati Rolling Mills products have you used?",
@@ -2485,7 +2485,7 @@
          "surveyId":"KE034",
          "surveyCategory":"Kapa Oil Refineries",
          "surveyPaid":false,
-         "surveyAmount":45,
+         "surveyAmount":25,
          "surveyQuestions":[
             {
                "surveyQuestion":"Which Kapa Oil products do you use?",
@@ -2548,7 +2548,7 @@
          "surveyId":"KE035",
          "surveyCategory":"Centum Investment Company",
          "surveyPaid":true,
-         "surveyAmount":68,
+         "surveyAmount":48,
          "surveyQuestions":[
             {
                "surveyQuestion":"Which Centum Investment services or products are you familiar with?",
@@ -2629,7 +2629,7 @@
          "surveyId":"KE036",
          "surveyCategory":"Bamburi Cement",
          "surveyPaid":true,
-         "surveyAmount":62,
+         "surveyAmount":42,
          "surveyQuestions":[
             {
                "surveyQuestion":"Which Bamburi Cement products do you use?",
@@ -2699,7 +2699,7 @@
          "surveyId":"KE037",
          "surveyCategory":"Safaricom Foundation",
          "surveyPaid":true,
-         "surveyAmount":64,
+         "surveyAmount":44,
          "surveyQuestions":[
             {
                "surveyQuestion":"Which Safaricom Foundation initiatives are you aware of?",
@@ -2769,7 +2769,7 @@
          "surveyId":"KE038",
          "surveyCategory":"Eldoret Grain Millers",
          "surveyPaid":false,
-         "surveyAmount":42,
+         "surveyAmount":22,
          "surveyQuestions":[
             {
                "surveyQuestion":"Which Eldoret Grain Millers products do you use?",
@@ -2832,7 +2832,7 @@
          "surveyId":"KE039",
          "surveyCategory":"Kenya Commercial Bank (KCB) Foundation",
          "surveyPaid":true,
-         "surveyAmount":66,
+         "surveyAmount":46,
          "surveyQuestions":[
             {
                "surveyQuestion":"Which KCB Foundation programs are you aware of?",
@@ -2902,7 +2902,7 @@
          "surveyId":"KE040",
          "surveyCategory":"Mombasa Cement",
          "surveyPaid":true,
-         "surveyAmount":62,
+         "surveyAmount":42,
          "surveyQuestions":[
             {
                "surveyQuestion":"Which Mombasa Cement products do you use?",
@@ -2972,7 +2972,7 @@
          "surveyId":"KE041",
          "surveyCategory":"Athi River Mining (ARM) Cement",
          "surveyPaid":true,
-         "surveyAmount":60,
+         "surveyAmount":40,
          "surveyQuestions":[
             {
                "surveyQuestion":"Which ARM Cement products do you use?",
@@ -3042,7 +3042,7 @@
          "surveyId":"KE042",
          "surveyCategory":"Pwani Oil",
          "surveyPaid":false,
-         "surveyAmount":43,
+         "surveyAmount":23,
          "surveyQuestions":[
             {
                "surveyQuestion":"Which Pwani Oil products do you use?",
@@ -3105,7 +3105,7 @@
          "surveyId":"KE043",
          "surveyCategory":"Kenya Seed Company",
          "surveyPaid":true,
-         "surveyAmount":65,
+         "surveyAmount":45,
          "surveyQuestions":[
             {
                "surveyQuestion":"Which Kenya Seed Company products do you use?",
@@ -3186,7 +3186,7 @@
          "surveyId":"KE044",
          "surveyCategory":"Ndovu Paints",
          "surveyPaid":true,
-         "surveyAmount":60,
+         "surveyAmount":40,
          "surveyQuestions":[
             {
                "surveyQuestion":"Which Ndovu Paints products do you use?",
@@ -3256,7 +3256,7 @@
          "surveyId":"KE045",
          "surveyCategory":"Kilimall Kenya",
          "surveyPaid":true,
-         "surveyAmount":68,
+         "surveyAmount":48,
          "surveyQuestions":[
             {
                "surveyQuestion":"How often do you shop on Kilimall Kenya?",
@@ -3335,7 +3335,7 @@
          "surveyId":"KE046",
          "surveyCategory":"Unga Limited",
          "surveyPaid":false,
-         "surveyAmount":44,
+         "surveyAmount":24,
          "surveyQuestions":[
             {
                "surveyQuestion":"Which Unga Limited products do you use?",
@@ -3398,7 +3398,7 @@
          "surveyId":"KE047",
          "surveyCategory":"Kakuzi PLC",
          "surveyPaid":true,
-         "surveyAmount":62,
+         "surveyAmount":42,
          "surveyQuestions":[
             {
                "surveyQuestion":"Which Kakuzi products do you consume?",
@@ -3468,7 +3468,7 @@
          "surveyId":"KE048",
          "surveyCategory":"Oserian Flowers",
          "surveyPaid":true,
-         "surveyAmount":60,
+         "surveyAmount":40,
          "surveyQuestions":[
             {
                "surveyQuestion":"Which types of Oserian flowers do you purchase?",
@@ -3538,7 +3538,7 @@
          "surveyId":"KE049",
          "surveyCategory":"Twiga Chemical Industries",
          "surveyPaid":true,
-         "surveyAmount":64,
+         "surveyAmount":44,
          "surveyQuestions":[
             {
                "surveyQuestion":"Which Twiga Chemical products do you use?",
@@ -3608,7 +3608,7 @@
          "surveyId":"KE050",
          "surveyCategory":"Base Titanium",
          "surveyPaid":true,
-         "surveyAmount":62,
+         "surveyAmount":42,
          "surveyQuestions":[
             {
                "surveyQuestion":"Which Base Titanium community initiatives are you aware of?",
